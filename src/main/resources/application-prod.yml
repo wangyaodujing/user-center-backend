@@ -4,3 +4,5 @@ spring:
     url: jdbc:mysql://140.143.151.48:3306/user_center?useSSL=false
     username: root
     password: wangyao123
+server:
+  address: 0.0.0.0
